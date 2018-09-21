@@ -8,4 +8,6 @@ function marinaraSauce(cookName){
     console.log("Cover the pot, bring to a bil, reduce the heat to medium low, and simmer until the sauce is heated, about 10 minutes");
     console.log("Stir in" +oneForth+ "cup roughly chopped fresh basil, salt and pepper as needed");
 }
+console.log("Hello there!");
+
 marinaraSauce("Adam");
